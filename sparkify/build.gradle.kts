@@ -153,3 +153,7 @@ mavenPublishing {
 
     signAllPublications()
 }
+
+project.tasks.withType(AbstractPublishToMaven::class.java).configureEach {
+    dependsOn(project.tasks.withType(Sign::class.java))
+}
