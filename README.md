@@ -2,7 +2,7 @@
 
 is a Compose Multiplatform UI Library to create icon button or wrap compose view to have bouncy and spark animation.
 
-![](https://github.com/wendei-id/sparkify/sparkify.gif)
+![](https://raw.githubusercontent.com/wendei-id/sparkify/refs/heads/main/sparkify.gif)
 
 # Usage
 
